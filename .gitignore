@@ -10,3 +10,4 @@
 /composable_app/data/book.pdf
 .idea
 composable_app/venv
+examples/keys.env
